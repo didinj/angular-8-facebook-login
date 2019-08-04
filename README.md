@@ -1,4 +1,6 @@
-# AngularFblogin
+# Angular 8 Tutorial: Facebook Login
+
+This source code is part of [Angular 8 Tutorial: Facebook Login]().
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
